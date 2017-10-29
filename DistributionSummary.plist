@@ -5,6 +5,26 @@
 	<key>JinMaoProduct.ipa</key>
 	<array>
 		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://jminves.iboler.com/IOS/JinMaoProduct.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.fnst.smartwork</string>
+				<key>bundle-version</key>
+				<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>JinMaoProduct.ipa</string>
+			</dict>
 			<key>architectures</key>
 			<array>
 				<string>armv7</string>
